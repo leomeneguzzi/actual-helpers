@@ -6,7 +6,7 @@ RUN apk add --no-cache \
     chromium \
     chromium-chromedriver \
     alsa-lib \
-    at-spi2-atk \
+    libatk-bridge-2.0 \
     gtk+3.0 \
     nss \
     xdg-utils \
